@@ -1,4 +1,7 @@
-﻿namespace Bloggie.Web.Models.Domain
+﻿using System;
+using System.Collections.Generic;
+
+namespace Bloggie.Web.Models.Domain
 {
     public class BlogPost
     {

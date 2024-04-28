@@ -1,5 +1,6 @@
 using Bloggie.Web.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
 namespace Bloggie.Web.Controllers
